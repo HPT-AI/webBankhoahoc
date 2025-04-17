@@ -1,0 +1,41 @@
+{
+  "home": {
+    "title": "Welcome to Online Learning Platform",
+    "startLearning": "Start Learning",
+    "featuredCourses": "Featured Courses",
+    "coursesDescription": "Explore our most popular courses",
+    "exploreCourses": "Explore Courses"
+  },
+  "login": {
+    "title": "Sign In",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "emailRequired": "Please enter your email",
+    "passwordRequired": "Please enter your password",
+    "submit": "Sign In",
+    "success": "Login successful",
+    "error": "Login failed"
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}",
+    "description": "Track your learning progress and achievements",
+    "enrolledCourses": "Enrolled Courses",
+    "completedLessons": "Completed Lessons",
+    "achievements": "Achievements",
+    "recentCourses": "Recent Courses",
+    "noCourses": "You haven't enrolled in any courses yet",
+    "browseCourses": "Browse Courses"
+  },
+  "notFound": {
+    "message": "Sorry, the page you visited does not exist",
+    "backHome": "Back to Home"
+  },
+  "layout": {
+    "appName": "Learning Platform",
+    "authDescription": "Sign in to access your courses",
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "profile": "My Profile",
+    "footerText": "Learning Platform. All Rights Reserved."
+  }
+}

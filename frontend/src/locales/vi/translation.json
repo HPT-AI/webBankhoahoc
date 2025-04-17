@@ -1,0 +1,41 @@
+{
+  "home": {
+    "title": "Chào mừng bạn đến với nền tảng học trực tuyến",
+    "startLearning": "Bắt đầu học",
+    "featuredCourses": "Khóa học nổi bật",
+    "coursesDescription": "Khám phá các khóa học phổ biến nhất của chúng tôi",
+    "exploreCourses": "Khám phá khóa học"
+  },
+  "login": {
+    "title": "Đăng nhập",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Mật khẩu",
+    "emailRequired": "Vui lòng nhập email của bạn",
+    "passwordRequired": "Vui lòng nhập mật khẩu của bạn",
+    "submit": "Đăng nhập",
+    "success": "Đăng nhập thành công",
+    "error": "Đăng nhập thất bại"
+  },
+  "dashboard": {
+    "welcome": "Xin chào, {{name}}",
+    "description": "Theo dõi tiến độ học tập và thành tích của bạn",
+    "enrolledCourses": "Khóa học đã đăng ký",
+    "completedLessons": "Bài học đã hoàn thành",
+    "achievements": "Thành tích",
+    "recentCourses": "Khóa học gần đây",
+    "noCourses": "Bạn chưa đăng ký khóa học nào",
+    "browseCourses": "Duyệt khóa học"
+  },
+  "notFound": {
+    "message": "Xin lỗi, trang bạn truy cập không tồn tại",
+    "backHome": "Trở về trang chủ"
+  },
+  "layout": {
+    "appName": "Nền tảng học tập",
+    "authDescription": "Đăng nhập để truy cập khóa học của bạn",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "profile": "Hồ sơ của tôi",
+    "footerText": "Nền tảng học tập. Đã đăng ký Bản quyền."
+  }
+}
