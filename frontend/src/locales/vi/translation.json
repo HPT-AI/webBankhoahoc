@@ -1,0 +1,97 @@
+{
+  "home": {
+    "title": "WebBankhoahoc - Nền tảng học trực tuyến",
+    "subtitle": "Khám phá và mua các khóa học chất lượng cao để nâng cao kỹ năng của bạn",
+    "startLearning": "Bắt đầu học",
+    "featuredCourses": "Khóa học nổi bật",
+    "addToCart": "Thêm vào giỏ hàng",
+    "instructor": "Giảng viên"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "cart": "Giỏ hàng",
+    "orderHistory": "Lịch sử đơn hàng"
+  },
+  "cart": {
+    "title": "Giỏ hàng",
+    "empty": "Giỏ hàng của bạn đang trống",
+    "subtotal": "Tạm tính",
+    "discount": "Giảm giá",
+    "total": "Tổng cộng",
+    "checkout": "Tiến hành thanh toán",
+    "continueShopping": "Tiếp tục mua sắm",
+    "remove": "Xóa",
+    "applyDiscount": "Áp dụng mã giảm giá",
+    "discountCode": "Mã giảm giá",
+    "apply": "Áp dụng"
+  },
+  "checkout": {
+    "title": "Thanh toán",
+    "steps": {
+      "cart": "Giỏ hàng",
+      "billing": "Thông tin",
+      "payment": "Thanh toán",
+      "confirmation": "Xác nhận"
+    },
+    "cartSummary": "Tóm tắt đơn hàng",
+    "yourCart": "Giỏ hàng của bạn",
+    "emptyCart": "Giỏ hàng của bạn đang trống. Vui lòng thêm khóa học trước khi thanh toán.",
+    "subtotal": "Tạm tính",
+    "discount": "Giảm giá",
+    "total": "Tổng cộng",
+    "instructor": "Giảng viên",
+    "billingInformation": "Thông tin thanh toán",
+    "billing": {
+      "name": "Họ và tên",
+      "nameRequired": "Vui lòng nhập họ và tên của bạn",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "email": "Địa chỉ email",
+      "emailRequired": "Vui lòng nhập địa chỉ email của bạn",
+      "emailInvalid": "Vui lòng nhập địa chỉ email hợp lệ",
+      "emailPlaceholder": "Nhập địa chỉ email của bạn",
+      "address": "Địa chỉ thanh toán",
+      "addressRequired": "Vui lòng nhập địa chỉ thanh toán của bạn",
+      "addressPlaceholder": "Nhập địa chỉ thanh toán của bạn"
+    },
+    "paymentMethod": "Phương thức thanh toán",
+    "payment": {
+      "method": "Chọn phương thức thanh toán",
+      "methodRequired": "Vui lòng chọn phương thức thanh toán",
+      "stripe": "Thẻ tín dụng/ghi nợ (Stripe)",
+      "vnpay": "VNPAY (Việt Nam)",
+      "cardDetails": "Chi tiết thẻ",
+      "stripeIntegration": "Trong triển khai thực tế, đây sẽ là thành phần Stripe Elements",
+      "cardElementPlaceholder": "Vị trí số thẻ (Stripe Elements sẽ được đặt ở đây)"
+    },
+    "previous": "Quay lại",
+    "nextButton": "Tiếp theo",
+    "placeOrderButton": "Đặt hàng",
+    "browseCoursesButton": "Duyệt khóa học",
+    "confirmation": {
+      "title": "Đặt hàng thành công!",
+      "orderNumber": "Mã đơn hàng: {orderId}",
+      "viewOrders": "Xem đơn hàng của tôi",
+      "continueShopping": "Tiếp tục mua sắm"
+    }
+  },
+  "orderHistory": {
+    "title": "Lịch sử đơn hàng",
+    "orderId": "Mã đơn hàng",
+    "date": "Ngày",
+    "courses": "Khóa học",
+    "course": "khóa học",
+    "total": "Tổng cộng",
+    "status": "Trạng thái",
+    "paymentMethod": "Phương thức thanh toán",
+    "actions": "Thao tác",
+    "viewDetails": "Xem chi tiết",
+    "orderDetails": "Chi tiết đơn hàng",
+    "orderDate": "Ngày đặt hàng",
+    "courseTitle": "Tên khóa học",
+    "instructor": "Giảng viên",
+    "price": "Giá"
+  },
+  "footer": {
+    "copyright": "Đã đăng ký Bản quyền"
+  }
+}

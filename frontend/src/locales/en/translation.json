@@ -1,0 +1,97 @@
+{
+  "home": {
+    "title": "WebBankhoahoc - Online Learning Platform",
+    "subtitle": "Discover and purchase high-quality courses to enhance your skills",
+    "startLearning": "Start Learning",
+    "featuredCourses": "Featured Courses",
+    "addToCart": "Add to Cart",
+    "instructor": "Instructor"
+  },
+  "nav": {
+    "home": "Home",
+    "cart": "Cart",
+    "orderHistory": "Order History"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove",
+    "applyDiscount": "Apply Discount",
+    "discountCode": "Discount Code",
+    "apply": "Apply"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "steps": {
+      "cart": "Cart",
+      "billing": "Billing",
+      "payment": "Payment",
+      "confirmation": "Confirmation"
+    },
+    "cartSummary": "Order Summary",
+    "yourCart": "Your Cart",
+    "emptyCart": "Your cart is empty. Please add courses before checkout.",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "total": "Total",
+    "instructor": "Instructor",
+    "billingInformation": "Billing Information",
+    "billing": {
+      "name": "Full Name",
+      "nameRequired": "Please enter your full name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailRequired": "Please enter your email address",
+      "emailInvalid": "Please enter a valid email address",
+      "emailPlaceholder": "Enter your email address",
+      "address": "Billing Address",
+      "addressRequired": "Please enter your billing address",
+      "addressPlaceholder": "Enter your billing address"
+    },
+    "paymentMethod": "Payment Method",
+    "payment": {
+      "method": "Select Payment Method",
+      "methodRequired": "Please select a payment method",
+      "stripe": "Credit/Debit Card (Stripe)",
+      "vnpay": "VNPAY (Vietnam)",
+      "cardDetails": "Card Details",
+      "stripeIntegration": "In a real implementation, this would be the Stripe Elements component",
+      "cardElementPlaceholder": "Card number placeholder (Stripe Elements would go here)"
+    },
+    "previous": "Previous",
+    "nextButton": "Next",
+    "placeOrderButton": "Place Order",
+    "browseCoursesButton": "Browse Courses",
+    "confirmation": {
+      "title": "Order Placed Successfully!",
+      "orderNumber": "Order Number: {orderId}",
+      "viewOrders": "View My Orders",
+      "continueShopping": "Continue Shopping"
+    }
+  },
+  "orderHistory": {
+    "title": "Order History",
+    "orderId": "Order ID",
+    "date": "Date",
+    "courses": "Courses",
+    "course": "course",
+    "total": "Total",
+    "status": "Status",
+    "paymentMethod": "Payment Method",
+    "actions": "Actions",
+    "viewDetails": "View Details",
+    "orderDetails": "Order Details",
+    "orderDate": "Order Date",
+    "courseTitle": "Course Title",
+    "instructor": "Instructor",
+    "price": "Price"
+  },
+  "footer": {
+    "copyright": "All Rights Reserved"
+  }
+}
