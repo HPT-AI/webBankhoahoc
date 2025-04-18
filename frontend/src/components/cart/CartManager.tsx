@@ -111,7 +111,7 @@ export const CartProvider: React.FC<CartProviderProps> = ({ children }) => {
   const applyDiscount = (code: string) => {
     const discountAmount = 10; // Example: $10 discount
     
-    const { subtotal, total } = calculateTotals(cart.items, { code, amount: discountAmount });
+    const { total } = calculateTotals(cart.items, { code, amount: discountAmount });
     
     setCart({
       ...cart,
@@ -123,7 +123,7 @@ export const CartProvider: React.FC<CartProviderProps> = ({ children }) => {
   };
 
   const removeDiscount = () => {
-    const { subtotal, total } = calculateTotals(cart.items);
+    const { total } = calculateTotals(cart.items);
     
     setCart({
       ...cart,

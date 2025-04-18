@@ -11,7 +11,6 @@ const CheckoutFlow: React.FC = () => {
   const { cart, clearCart } = useCart();
   const [current, setCurrent] = useState(0);
   const [form] = Form.useForm<CheckoutForm>();
-  const [checkoutComplete, setCheckoutComplete] = useState(false);
   const [orderId, setOrderId] = useState<string>('');
 
   const steps = [
@@ -54,7 +53,6 @@ const CheckoutFlow: React.FC = () => {
       setOrderId(mockOrderId);
       
       setCurrent(steps.length - 1);
-      setCheckoutComplete(true);
       
       clearCart();
     } catch (error) {

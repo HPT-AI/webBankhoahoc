@@ -96,7 +96,7 @@ const OrderHistory: React.FC = () => {
       title: t('orderHistory.courses'),
       dataIndex: 'courses',
       key: 'courses',
-      render: (courses: any[]) => (
+      render: (courses: OrderHistoryItem['courses']) => (
         <span>{courses.length} {courses.length === 1 ? t('orderHistory.course') : t('orderHistory.courses')}</span>
       ),
     },
@@ -132,7 +132,7 @@ const OrderHistory: React.FC = () => {
     {
       title: t('orderHistory.actions'),
       key: 'actions',
-      render: (_: any, record: OrderHistoryItem) => (
+      render: (_: unknown, record: OrderHistoryItem) => (
         <Space size="middle">
           <Button type="link" onClick={() => viewOrderDetails(record.orderId)}>
             {t('orderHistory.viewDetails')}
